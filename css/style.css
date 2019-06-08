@@ -1,7 +1,6 @@
 .linea{
     background-color: black;
-    height: 56px;
-    width: 10px;
+
 }
 
 .cuadro{
@@ -30,5 +29,25 @@
     height: 100%;
     width: 100%;
 }
+
+	
+.contenedor{
+    height: 100%;
+    width: 100%;
+
+}
+ 
+
+.centrado{
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+}
+
+.letras{
+    background-color: white;
+}
+
 
 
