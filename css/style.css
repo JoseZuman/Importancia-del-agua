@@ -40,13 +40,22 @@
 
 .centrado{
     position: absolute;
-    top: 30%;
-    left: 45%;
+    top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
 }
+#letras{
+    color: #fdfeff;
+text-decoration: none;
+background-color: transparent;
+}
 
-.letras{
-    background-color: white;
+
+.tarjeta{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 
