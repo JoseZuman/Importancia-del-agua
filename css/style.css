@@ -30,20 +30,8 @@
     width: 100%;
 }
 
-	
-.contenedor{
-    height: 100%;
-    width: 100%;
-
-}
  
 
-.centrado{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
 #letras{
     color: #fdfeff;
 text-decoration: none;
@@ -51,12 +39,15 @@ background-color: transparent;
 }
 
 
-.tarjeta{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+.fondo-agua{
+    background-image: url("../imagenes/fondo2.png");
+    height: 100%;
+    width: 100%;
 }
 
-
+.header{
+    background-image: url("../imagenes/fondo.png");
+    padding-top: 100px;
+    height: 900px;
+}
 
