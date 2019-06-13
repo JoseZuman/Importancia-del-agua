@@ -50,10 +50,11 @@
     font-size: 3rem;
 }
 
-.linea2{
-    background-color: black;
+footer{
+    background-color: white;
+    width: 100%;
     height: 100px;
-    width: 100%; 
+
 }
 
 .fondo{
@@ -71,13 +72,16 @@ background-color: transparent;
 
 
 .fondo-agua{
-    background-image: url("../imagenes/fondo2.png");
-    height: 100%;
+    
+    height: 700px;
     width: 100%;
 }
 
 .header{
-    background-image: url("../imagenes/fondo.png");
-    padding-top: 100px;
+   
     height: 900px;
 }
+.banner-agua{
+    height: 300px;
+}
+
