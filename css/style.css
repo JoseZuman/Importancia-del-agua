@@ -62,7 +62,6 @@ footer{
     width: 100%;
 }
 
- 
 
 #letras{
     color: #fdfeff;
@@ -73,13 +72,32 @@ footer{
     height: 300px;
 }
 
+
 .tarjetas{
     height: 620px;
     width: 600px;
 }
 
 
-
 #carrusel-tamaño{
-    height: 900px;
+    height: 1000px;
+}
+
+
+#agua-tamaño{
+    height: 1700px;
+}
+
+#index-tamaño{
+    height: 800px;
+}
+
+
+#home-tamaño{
+    height: 1200px;
+}
+
+
+.github-icon{
+
 }
