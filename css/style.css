@@ -98,6 +98,13 @@ footer{
 }
 
 
-.github-icon{
+#footer{
+    background-color: black;
+    height: 120px;
+    width: auto;
+    padding-top: 30px
+}
 
+.social-icon{
+    font-size: 30px;
 }
